@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>YQPP</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Quick Print Preview Messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YQPP</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Set &amp;1 already exists - choose a different ID</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YQPP</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Set &amp;1 does not exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YQPP</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Set ID cannot be empty</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YQPP</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Are you sure you want to delete set &amp;1?</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YQPP</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Set &amp;1 has been deleted</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YQPP</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Set &amp;1 has been saved</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YQPP</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>PDF output is not supported by the print program</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YQPP</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Error in the print program</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YQPP</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>The generated spool cannot be found</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

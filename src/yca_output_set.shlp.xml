@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SHLP" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD30V>
+    <SHLPNAME>YCA_OUTPUT_SET</SHLPNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DDTEXT>Output messages set (quick preview)</DDTEXT>
+    <ISSIMPLE>X</ISSIMPLE>
+    <SELMETHOD>YCA_OUTPUT_SET</SELMETHOD>
+    <SELMTYPE>T</SELMTYPE>
+    <DIALOGTYPE>D</DIALOGTYPE>
+   </DD30V>
+   <DD32P_TABLE>
+    <DD32P>
+     <SHLPNAME>YCA_OUTPUT_SET</SHLPNAME>
+     <FIELDNAME>ERNAM</FIELDNAME>
+     <FLPOSITION>0001</FLPOSITION>
+     <ROLLNAME>ERNAM</ROLLNAME>
+     <SHLPINPUT>X</SHLPINPUT>
+     <SHLPSELPOS>01</SHLPSELPOS>
+     <DEFAULTVAL>SY-UNAME</DEFAULTVAL>
+     <DEFAULTTYP>S</DEFAULTTYP>
+     <SCRLEN3>20</SCRLEN3>
+    </DD32P>
+    <DD32P>
+     <SHLPNAME>YCA_OUTPUT_SET</SHLPNAME>
+     <FIELDNAME>SETID</FIELDNAME>
+     <FLPOSITION>0002</FLPOSITION>
+     <ROLLNAME>YCA_DATASET_ID</ROLLNAME>
+     <SHLPINPUT>X</SHLPINPUT>
+     <SHLPOUTPUT>X</SHLPOUTPUT>
+     <SHLPSELPOS>02</SHLPSELPOS>
+     <SHLPLISPOS>01</SHLPLISPOS>
+     <SCRLEN3>10</SCRLEN3>
+    </DD32P>
+   </DD32P_TABLE>
+  </asx:values>
+ </asx:abap>
+</abapGit>
